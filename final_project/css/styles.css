@@ -20,7 +20,7 @@ img {
 h1, h2, h3 {
     color: black;
     text-align: center;
-    width: 100% auto;
+    width: 90% auto;
 }
 
 
@@ -139,7 +139,7 @@ td {
   }
 
 
-  nav li a {
+nav li a {
     width: 175px;
     margin: 0 5px;
     border-radius: 10px;
