@@ -1,6 +1,7 @@
 body {
     background-color: #D96704;
 }
+
 img {
     display: block;
     margin: 0 auto;
@@ -95,11 +96,12 @@ td {
     border: 4px solid black;
 }
 
-@media (min-with: 768px) {
+@media (min-width: 786px){
   nav li {
     display: inline-block;
     border: 0;
   }
+
 
   nav li a {
     width: 175px;
