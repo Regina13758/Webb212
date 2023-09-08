@@ -11,18 +11,18 @@ video,audio {
 
 img {
     display: block
-    margin: 0 auto;
+    margin: 20px auto;
     width: 100%;
+}   
     
-    
-}
+
 
 h1, h2, h3 {
     color: black;
     text-align: center;
-    width: 100%% auto;
-   
+    width: 100% auto;
 }
+
 
 #container {
     background-color: #319642;
